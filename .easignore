@@ -1,0 +1,5 @@
+android/
+ios/
+.gradle-home/
+build.log
+*.apk
